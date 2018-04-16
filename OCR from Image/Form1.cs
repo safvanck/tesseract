@@ -57,7 +57,8 @@ namespace OCR_from_Image
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var testImagePath = browseImg();// @"C:\Users\project\Downloads\IMGsampleForOCR.png";
+            panel1.Visible = true;
+            var testImagePath = browseImg();
             
             var dataPath =""+ path+ @"\tessdata\";
 
@@ -73,9 +74,8 @@ namespace OCR_from_Image
                         {
                             var text = page.GetText(); //Gets the image's content as plain text.
                             label1.Text = text.ToString();
-                            // Console.WriteLine(page.GetMeanConfidence()); //Get's the mean confidence that as a percentage of the recognized text.
 
-                            
+                            // Console.WriteLine(page.GetMeanConfidence()); //Get's the mean confidence that as a percentage of the recognized text.  
                         }
                     }
                 }
@@ -83,9 +83,11 @@ namespace OCR_from_Image
             catch (Exception ex)
             {
                 label1.Text = "error!"+ ex.Message.ToString();
-               // Console.WriteLine("Unexpected Error: " + e.Message);
             }
-
+            finally
+            {
+                panel1.Visible = false;
+            }
             
         }
 
