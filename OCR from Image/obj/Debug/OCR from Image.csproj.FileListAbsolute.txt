@@ -1,0 +1,15 @@
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\bin\Debug\OCR from Image.exe.config
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\obj\Debug\OCR from Image.csprojResolveAssemblyReference.cache
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\obj\Debug\OCR_from_Image.Form1.resources
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\obj\Debug\OCR_from_Image.Properties.Resources.resources
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\obj\Debug\OCR from Image.csproj.GenerateResource.Cache
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\bin\Debug\x64\liblept172.dll
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\bin\Debug\x64\libtesseract304.dll
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\bin\Debug\x86\liblept172.dll
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\bin\Debug\x86\libtesseract304.dll
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\bin\Debug\OCR from Image.exe
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\bin\Debug\OCR from Image.pdb
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\bin\Debug\Tesseract.dll
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\bin\Debug\Tesseract.xml
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\obj\Debug\OCR from Image.exe
+c:\users\project\documents\visual studio 2015\Projects\OCR from Image\OCR from Image\obj\Debug\OCR from Image.pdb
